@@ -7,6 +7,7 @@ class PyrusRenderer(KeyValueRenderer):
         'debug': 'white',
         'warning': 'yellow',
         'error': 'red',
+        'critical': 'magenta',
     }
     default_color = 'blue'
 
